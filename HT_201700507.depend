@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1566713750 source:/home/kapsion/CodeBlocks/HT_201700507/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
